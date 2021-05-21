@@ -9,7 +9,7 @@ A web browser with something like [Greasemonkey](https://addons.mozilla.org/en-C
 
 This will potentially cause problems for alt-text and general accessibility. It's a gag thing. And also, it's very glitchy and probably won't work a lot.
 
-Click here: [**📜Install**](https://raw.github.com/GwyndolynMarchant/Fallen-London-Silly-Names/main/fl-silly-names.user.js)
+You can install the latest version here: [**📜Install**](https://raw.github.com/GwyndolynMarchant/Fallen-London-Silly-Names/main/fl-silly-names.user.js)
 
 ## Explanation
 This userscript replaces the icons and tooltip names of various items in [Fallen London](https://fallenlondon.com) with other icons and names. This is a very silly thing to do which primarily is to make some good jokes.
