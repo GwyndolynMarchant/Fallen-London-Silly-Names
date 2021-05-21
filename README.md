@@ -21,3 +21,7 @@ I can only summarize my state upon returning to my machine, it now working, as "
 Also I was chatting with friends and they egged me on, as good friends do. ❤
 
 ![image](https://user-images.githubusercontent.com/59987656/119097893-4027d880-b9e3-11eb-85aa-8f625a5041a1.png)
+
+## License or whatever
+
+[None.](LICENSE)
