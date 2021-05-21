@@ -23,7 +23,7 @@ Also I was chatting with friends and they egged me on, as good friends do. ❤
 ![image](https://user-images.githubusercontent.com/59987656/119097893-4027d880-b9e3-11eb-85aa-8f625a5041a1.png)
 
 ## To-do
-- [x] ~~It like, kind of works!~~
+- [x] It like, kind of works!
 - [ ] Make sure this actually works in storylets
 - [ ] Add more than two things
 - [ ] Qualities as well
