@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name 		Fallen London Silly Names
 // @namespace	shadenexus
-// @version		0.1
+// @version		0.2
 // @description	A script that replaces a bunch of stuff in Fallen London as a goof
 // @author		Gwyndolyn Marchant
 // @match		https://www.fallenlondon.com/*
@@ -12,6 +12,7 @@
 // @require     https://gist.github.com/raw/2625891/waitForKeyElements.js
 //
 // @resource 	boneMachine	https://upload.wikimedia.org/wikipedia/en/7/7d/TomWaits-BoneMachine.jpg
+// @resource 	billieHellgnoll	https://shadenexus.com/img/sockeye_billie.png
 //
 // ==/UserScript==
 
@@ -23,9 +24,17 @@ let index = {
         },
         "Irrigo-filled Mirrorcatch Box": {
         	"name" : "I don't actually remember what I put in here"
+        },
+	"Somnolent Hyaena": {
+		"name" : "Billie",
+		"icon" : "billieHellgnoll"
+	}
+        "Hillmover": {
+            "name" : "Basically an Explosive"
         }
 	},
     "qualities" : {
+        "Seeking Mr Eaten's Name": "Mr Eaten's Mean Bean Machine",
         "Mithridacy": "Lying",
         "Occasionally Seen at Mr Wines' Revels": "Mr. Wines Owes Me Twenty Dollars"
     }
