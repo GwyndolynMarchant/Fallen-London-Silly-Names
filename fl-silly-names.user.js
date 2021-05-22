@@ -2,7 +2,7 @@
 // @name 		Fallen London Silly Names
 // @namespace	shadenexus
 // @version		0.2
-// @updateURL   https://raw.github.com/GwyndolynMarchant/Fallen-London-Silly-Names/main/fl-silly-names.user.js
+// @downloadURL https://raw.github.com/GwyndolynMarchant/Fallen-London-Silly-Names/main/fl-silly-names.user.js
 // @description	A script that replaces a bunch of stuff in Fallen London as a goof
 // @author		Gwyndolyn Marchant
 // @match		https://www.fallenlondon.com/*
