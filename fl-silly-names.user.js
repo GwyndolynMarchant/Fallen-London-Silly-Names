@@ -23,6 +23,9 @@ let index = {
             "name" : "Evil Bone Machine",
             "icon" : "boneMachine"
         },
+	"Prisoner's Honey" : {
+	"name" : "Prisoner's Horny"
+},
         "Irrigo-filled Mirrorcatch Box": {
         	"name" : "I don't actually remember what I put in here"
         },
