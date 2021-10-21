@@ -1,6 +1,8 @@
 # Fallen London Silly Names
 *An incredibly silly and pointless userscript that has not been endorsed by anybody.*
 
+**FYI: Currently this script seems to have broken, and i'm likely to not update it any time soon. Sorry if anybody was keen on it!**
+
 ![Evil Bone Machine](https://user-images.githubusercontent.com/59987656/119097643-fc34d380-b9e2-11eb-9c4a-42b59d26be04.png)
 ![I don't actually remember what i put in here](https://user-images.githubusercontent.com/59987656/119097667-048d0e80-b9e3-11eb-8224-67bc276b553d.png)
 
